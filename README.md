@@ -1,1 +1,2 @@
 # weather_app
+I created my first weather app from scratch using JavaScript, HTML, and CSS. The app utilizes the user's current location to provide real-time weather updates for the corresponding area. It is dynamic in nature, as the background image changes according to the time of day. The app fetches weather data from an external API based on the user's geolocation and displays the temperature, humidity, wind speed, and other weather information.
